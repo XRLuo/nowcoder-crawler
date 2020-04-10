@@ -2,7 +2,8 @@
 
 ## 0 Intro
 
-爬虫实现爬取牛客网数据结构试题
+基于cookie爬取牛客网需要登录访问的试题
+
 [试题链接](https://www.nowcoder.com/intelligentTest)
 
 ## 1 Goal
